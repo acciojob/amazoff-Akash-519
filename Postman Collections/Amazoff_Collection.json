@@ -155,7 +155,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n\r\n    \"customerId\" : 5,\r\n    \"cardNo\" : \"465738442362645\",\r\n    \"cvv\" : 555,\r\n    \"cardType\" : \"RUPAY\"\r\n}",
+							"raw": "{\r\n\r\n    \"customerId\" : 5,\r\n    \"cardNo\" : \"465738442362645\",\r\n    \"cvv\" : 555,\r\n    \"cardType\" : \"RUPAY\"\r\n}\r\n//the above 5 id is not yet updated in databasse",
 							"options": {
 								"raw": {
 									"language": "json"
