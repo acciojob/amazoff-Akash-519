@@ -10,7 +10,7 @@
 			"item": [
 				{
 					"name": "Add Seller",
-					"_postman_id": "148b32f4-525b-4e79-81bb-ee17b30cc270",
+					"id": "148b32f4-525b-4e79-81bb-ee17b30cc270",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -32,7 +32,7 @@
 				},
 				{
 					"name": "delete seller by id",
-					"_postman_id": "ebe32742-f447-488f-bf99-756089213d4d",
+					"id": "ebe32742-f447-488f-bf99-756089213d4d",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -44,14 +44,14 @@
 					"response": []
 				}
 			],
-			"_postman_id": "84196abd-a4e7-431e-a585-5c1b3e09d541"
+			"id": "84196abd-a4e7-431e-a585-5c1b3e09d541"
 		},
 		{
 			"name": "Product",
 			"item": [
 				{
 					"name": "add Product",
-					"_postman_id": "75e7dc1f-4d72-4fe5-90da-c285fbc0a70b",
+					"id": "75e7dc1f-4d72-4fe5-90da-c285fbc0a70b",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -73,7 +73,7 @@
 				},
 				{
 					"name": "Get product by category",
-					"_postman_id": "8a3abaee-e792-4608-880f-8b6e5fe67aad",
+					"id": "8a3abaee-e792-4608-880f-8b6e5fe67aad",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -86,7 +86,7 @@
 				},
 				{
 					"name": "get product by id",
-					"_postman_id": "cc9d9145-f1fb-4530-8f19-b3c3d478dc31",
+					"id": "cc9d9145-f1fb-4530-8f19-b3c3d478dc31",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -98,14 +98,14 @@
 					"response": []
 				}
 			],
-			"_postman_id": "4b2c1c34-163f-4d1a-8fff-4df1793bff41"
+			"id": "4b2c1c34-163f-4d1a-8fff-4df1793bff41"
 		},
 		{
 			"name": "Customer",
 			"item": [
 				{
 					"name": "Add customer",
-					"_postman_id": "4f4e56fe-d1cc-41b7-807c-f7f41c64e7c8",
+					"id": "4f4e56fe-d1cc-41b7-807c-f7f41c64e7c8",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -127,7 +127,7 @@
 				},
 				{
 					"name": "get customer cards",
-					"_postman_id": "478b3708-388f-465d-8a79-d5a746f48f03",
+					"id": "478b3708-388f-465d-8a79-d5a746f48f03",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -139,14 +139,14 @@
 					"response": []
 				}
 			],
-			"_postman_id": "dde47150-64cb-46e0-8dcf-ba3bfee42b31"
+			"id": "dde47150-64cb-46e0-8dcf-ba3bfee42b31"
 		},
 		{
 			"name": "Card",
 			"item": [
 				{
 					"name": "add card",
-					"_postman_id": "7a9c0854-f11f-4a07-b31c-848fd84b739a",
+					"id": "7a9c0854-f11f-4a07-b31c-848fd84b739a",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -155,7 +155,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n\r\n    \"customerId\" : 3,\r\n    \"cardNo\" : \"465738472384\",\r\n    \"cvv\" :333,\r\n    \"cardType\" : \"VISA\"\r\n}",
+							"raw": "{\r\n\r\n    \"customerId\" : 4,\r\n    \"cardNo\" : \"46573844236384\",\r\n    \"cvv\" :444,\r\n    \"cardType\" : \"RUPAY\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
@@ -167,14 +167,14 @@
 					"response": []
 				}
 			],
-			"_postman_id": "eb6e4209-5339-4ae8-b003-a0744fc466eb"
+			"id": "eb6e4209-5339-4ae8-b003-a0744fc466eb"
 		},
 		{
 			"name": "Item",
 			"item": [
 				{
 					"name": "view item",
-					"_postman_id": "9253f57e-266f-4676-bee0-351625d28856",
+					"id": "9253f57e-266f-4676-bee0-351625d28856",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -186,14 +186,14 @@
 					"response": []
 				}
 			],
-			"_postman_id": "e6c75db2-33b3-47f8-b82a-6fa8c1035373"
+			"id": "e6c75db2-33b3-47f8-b82a-6fa8c1035373"
 		},
 		{
 			"name": "Ordered",
 			"item": [
 				{
 					"name": "place order",
-					"_postman_id": "bca431d1-8d63-4761-b398-29ae20f03b2e",
+					"id": "bca431d1-8d63-4761-b398-29ae20f03b2e",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -214,14 +214,14 @@
 					"response": []
 				}
 			],
-			"_postman_id": "6506979b-cde8-4381-aca3-dec80acfd36a"
+			"id": "6506979b-cde8-4381-aca3-dec80acfd36a"
 		},
 		{
 			"name": "Cart",
 			"item": [
 				{
 					"name": "add to cart",
-					"_postman_id": "cbb9e82b-d351-462c-ad04-ea5cbd51df08",
+					"id": "cbb9e82b-d351-462c-ad04-ea5cbd51df08",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -243,7 +243,7 @@
 				},
 				{
 					"name": "checkout cart",
-					"_postman_id": "5398e478-a337-49ba-9edb-46636e736648",
+					"id": "5398e478-a337-49ba-9edb-46636e736648",
 					"protocolProfileBehavior": {
 						"disableBodyPruning": true
 					},
@@ -255,7 +255,7 @@
 					"response": []
 				}
 			],
-			"_postman_id": "de921c1b-0e85-4b6d-a93f-b7d4c6d7e910"
+			"id": "de921c1b-0e85-4b6d-a93f-b7d4c6d7e910"
 		}
 	]
 }
