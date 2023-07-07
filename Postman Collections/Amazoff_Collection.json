@@ -114,7 +114,7 @@
 						"header": [],
 						"body": {
 							"mode": "raw",
-							"raw": "{\r\n    \"name\" : \"Akash 519\",\r\n    \"age\" : 23,\r\n    \"email\" : \"abd.akash519@gmail.com\",\r\n    \"mobNo\" : \"9010801869\"\r\n}",
+							"raw": "{\r\n    \"name\" : \"Uma Mahesh\",\r\n    \"age\" : 23,\r\n    \"email\" : \"umamaheshyadav2001@gmail.com\",\r\n    \"mobNo\" : \"7330961311\"\r\n}",
 							"options": {
 								"raw": {
 									"language": "json"
